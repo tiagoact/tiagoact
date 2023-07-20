@@ -17,7 +17,7 @@
  ## index.yaml -> Contem o metadados, seria os parametros e passos que o serviço de scaffolding vai executar ...
 
 
-# Exemplo de arquvo de location.
+# Exemplo de arquivo de location.
 
 clienteA.yaml
 

@@ -103,7 +103,6 @@ clienteA.yaml
         	entityRef: ${{ steps['register'].output.entityRef }}
 		 
 ## Agora que entendemos a estrutura basica de arquivos e parametros, vamos entender como deixar um templete visivel no projeto.
-
 ##No seu ambiente de desenvolvimento, em seu projeto procure o arquivo app-config.local.yaml,
 ##nele vamos adicionar e deixar visivel o templete criado como exemplo a estrutura apresentada anteriormente.
 ##No arquivo app-config.local.yaml possuem vário parametros, procure o parametro "catalog:" abaixo dele incluia esses parametos.

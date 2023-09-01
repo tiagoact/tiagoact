@@ -120,5 +120,5 @@ clienteA.yaml
 
 #Para saber mais sobre criação de templetes consulte: https://backstage.io/docs/features/software-templates/writing-templates/ 
 
-
+Linha alteração
 

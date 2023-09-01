@@ -16,7 +16,6 @@
  ## clienteA.yaml -> Esse arquivo armazena as configurações de locations, por exemplo o apontamento para o templete para serviço de scaffolding.
  ## index.yaml -> Contem o metadados, seria os parametros e passos que o serviço de scaffolding vai executar ...
 
-
 # Exemplo de arquivo de location.
 
 clienteA.yaml

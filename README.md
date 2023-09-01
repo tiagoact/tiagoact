@@ -122,3 +122,5 @@ clienteA.yaml
 
 Linha alteração
 
+nova linha 
+
